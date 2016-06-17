@@ -2,6 +2,7 @@ source 'https://rubygems.org'
 
 gem 'rails', '4.2.0'
 gem 'pg'
+gem 'rack-wwwhisper', '~> 1.0'
 
 # Gems used only for assets and not required
 # in production environments by default.
